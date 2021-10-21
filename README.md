@@ -3,6 +3,8 @@ A simple concentration game that works across browsers
 
 
 # To run
+npm i to install node_modules
+
 npm run serve will run the app on localhost:8080 by default
 
 npm run build will compile a dist that may be served by a server package like serve
